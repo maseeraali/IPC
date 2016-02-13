@@ -1,0 +1,2 @@
+This program is the implementation of sending a message from the server to its clients using shared memory.
+server.c sends the message to the client.c program.

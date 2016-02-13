@@ -1,0 +1,1 @@
+In this program, shm1.c is a menu driven program, which will take an array as input and then shm2.c will take second array as input. After initialization of these two arrays shm3.c will do addition, multiplication of arrays and then get these results printed on the programs of shm1.c and shm2.c .

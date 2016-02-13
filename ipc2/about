@@ -1,0 +1,1 @@
+In this program, the code of shm1.c is a menu driven and will take an array as input. This array is then sorted by the code written in file shm2.c. File shm3.c will do a simple search of an element in this array and will get the report printed on the code of shm1.c using shared memory concept.
